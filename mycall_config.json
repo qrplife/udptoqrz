@@ -1,0 +1,7 @@
+{
+    "key":"YOUR QRZ.COM LOGBOOK API KEY",
+    "endpoint":"https://logbook.qrz.com/api",
+    "qrz_username":"YOUR QRZ.COM USERNAME",
+    "qrz_password":"YOUR QRZ.COM PASSWORD",
+    "qrz_call_endpoint":"https://xmldata.qrz.com/xml/current/"
+}
